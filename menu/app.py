@@ -6,7 +6,7 @@ from dessert import Dessert
 
 pizza = Restaurant('Pizza Place', 'Pizzeria')
 coca = Drink('Coca-Cola', 7.0,'Big')
-pepperoni = Food('Pepperoni Pizza', 50.0, ', extra-thin dough, mozzarella and pepperoni.')
+pepperoni = Food('Pepperoni Pizza', 50.0, ', delicious extra-thin dough, mozzarella and pepperoni.')
 cake = Dessert('Chocolate Cake', 30, 'Big')
 
 
