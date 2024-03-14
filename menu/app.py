@@ -4,7 +4,7 @@ from item_menu import ItemMenu
 from food import Food
 from dessert import Dessert
 
-pizza = Restaurant('Pizza Place', 'Pizzeria')
+pizza = Restaurant('Pizza Place', 'Italian Food')
 coca = Drink('Coca-Cola', 7.0,'Big')
 pepperoni = Food('Pepperoni Pizza', 50.0, ', delicious extra-thin dough, mozzarella and pepperoni.')
 cake = Dessert('Super Chocolate Cake', 30, 'Big')
